@@ -1,5 +1,3 @@
 package main
 
-func greet() string {
-	panic("TODO: implement")
-}
+func greet() string { return "Hello, World!" }
